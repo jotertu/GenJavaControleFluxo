@@ -6,9 +6,9 @@ import java.util.Scanner;
  * uma mensagem indicando se este número é par ou ímpar e se o número é positivo ou negativo.
  * 
  * 1 - ler um número inteiro
- * 2 - fazer uma comparação se o número é negativo ou positivo
- * 3 - realizar outra comparação para ver se o numero é impar ou par
- * 4 - imprimir o resultado positivo ou negativo na tela para o usuario
+ * 2 - Faça uma comparação utilizando o controle de fluxo if se o número é negativo ou positivo
+ * 3 - Faça uma comparação utilizando o controle de fluxo if para ver se o numero é impar ou par
+ * 4 - Imprimir resultado positivo ou negativo e informar se o valor digitado é impar ou par na tela para o usuário
  */
 public class Exercicio02 {
 

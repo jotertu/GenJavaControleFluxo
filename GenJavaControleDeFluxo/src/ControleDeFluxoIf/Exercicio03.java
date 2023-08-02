@@ -3,13 +3,13 @@ package ControleDeFluxoIf;
 import java.util.Scanner;
 /*
  * Para doar sangue é necessário ter entre 18 e 69 anos de idade. Pessoas com idade entre 60 e 69 anos, 
- * só podem doar se não for a sua primeira doação. Escreva um Algoritmo em Java que obtenha via teclado o nome do doador (String),
- * a idade (inteiro) do doador e se é a primeira doação (boolean). De acordo com as Regras para a doação, 
- * mostre na tela se o doador está Apto ou Não Apto para doar sangue.
+ * só podem doar se não for a sua primeira doação. Escreva um Algoritmo em Java que obtenha via teclado 
+ * o nome do doador (String), a idade (inteiro) do doador e se é a primeira doação (boolean). De acordo
+ * com as Regras para a doação, mostre na tela se o doador está Apto ou Não Apto para doar sangue.
  *   
- *  - Solicite ao usuário um uma string, um int e um bool
- *  - Faça uma comparação entre a idade 
- *  - faça outra comparação para ver se é a primeira doação
+ *  - Solicite ao usuário o nome [string], a idade [int] e uma comparação verdadeira ou falsa [bool]
+ *  - Faça uma comparação utilizando o controle de fluxo if entre a idade 
+ *  - Faça uma comparação utilizando o controle de fluxo if para ver se é a primeira doação
  *  - retorne ao usuário se ele pode realizar ou não a doação
  */
 

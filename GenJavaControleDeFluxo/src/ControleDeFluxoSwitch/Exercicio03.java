@@ -1,15 +1,17 @@
 package ControleDeFluxoSwitch;
 
 import java.util.Scanner;
+
 /*
- * Com base na tabela abaixo, escreva um algoritmo em Java, que simule uma Calculadora simples. 
- * O programa deverá ler dois números float: numero1 e numero2, e na sequência ler o Código da operação matemática (número inteiro de 1 a 4).
- * A seguir, mostre na tela o resultado da operação entre os 2 números. 
+ * Com base na tabela abaixo, escreva um algoritmo em Java, que simule uma 
+ * Calculadora simples. O programa deverá ler dois números float: numero1 
+ * e numero2, e na sequência ler o Código da operação matemática (número inteiro 
+ * de 1 a 4). A seguir, mostre na tela o resultado da operação entre os 2 números. 
  * Caso a operação seja diferente do intervalo 1 a 4, mostre a mensagem Operação Inválida!
  * 
- *  - Float numero 1 e numero 2 e valor final
- *  - int codigoOperacao
- *  - Realizar os calculos
+ *  - Solicite o código da operação que deseja realizar [int] e dois valores [float] 
+ *  - Realizar os calculos utilizando o controle de fluxo switch
+ *  - Retornar a operação matemática desejada
  *  - Caso não tenha exista a opção, retornar como invalida
  */
 

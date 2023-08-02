@@ -2,7 +2,6 @@ package ControleDeFluxoSwitch;
 
 import java.util.Scanner;
 
-public class Exercicio04 {
 /*
  *Desenvolva um algoritmo em Java para uma conta bancária. O programa deverá ler o 
  *tipo de operação a ser realizada com base na tabela abaixo (número inteiro entre 1 e
@@ -11,10 +10,14 @@ public class Exercicio04 {
  *exiba o novo Saldo na tela. A variável saldo (float), será inicializada com o valor de R$ 
  *1000.00. Caso a operação seja diferente do intervalo 1 a 3, mostre a mensagem 
  * 
- * - 1 Numero inteiro e 3 doubles
- * - Solicite o tipo de operação ao usuário
- * - retorne uma resposta se foi efetuado ou não a solicitação do usuário
+ * - Solicite ao usuário um número [int] e declare três doubles, um contendo uma operação incializada
+ * - Realizar a solicitação do usuário utilizando o controle de fluxo switch
+ * - Retorne a resposta da operação bancária
+ * - Caso não tenha exista a opção, retornar como invalida
  */
+
+public class Exercicio04 {
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		double saldo = 1000.00, saque, deposito;

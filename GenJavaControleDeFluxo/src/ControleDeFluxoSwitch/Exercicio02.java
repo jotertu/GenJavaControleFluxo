@@ -2,13 +2,15 @@ package ControleDeFluxoSwitch;
 
 import java.util.Scanner;
 /*
- * Com base na tabela abaixo, escreva um algoritmo em Java que leia o Nome do Colaborador (String),
- * o Código do Cargo do Colaborador (número inteiro de 1 a 6) e o Salário (número float). 
- * A seguir, mostre na tela o Nome do Colaborador, o Cargo e o novo Salário reajustado.
+ * Com base na tabela abaixo, escreva um algoritmo em Java que leia o Nome do Colaborador 
+ * (String), o Código do Cargo do Colaborador (número inteiro de 1 a 6) e o Salário 
+ * (número float). A seguir, mostre na tela o Nome do Colaborador, o Cargo e o novo 
+ * Salário reajustado.
  * 
- * 	- String, int, float
- * 	- realizar calculo
- * 	- retornar o novo sálario reajustado, caso não exista o código do cargo, retornar respota negativa
+ * 	- Solicite ao usuário seu nome [String], o código do seu cargo [int] e o seu salário [double]
+ * 	- Realizar calculo utilizando o controle de fluxo switch
+ * 	- Retornar o novo sálario reajustado, 
+ *  - Caso não exista o código do cargo, retornar respota negativa
  */
 
 public class Exercicio02 {

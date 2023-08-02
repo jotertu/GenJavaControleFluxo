@@ -3,11 +3,13 @@ package ControleDeFluxoIf;
 import java.util.Scanner;
 /*
  * Escreva um algoritmo em Java, que leia 3 palavras (String), que definem as 
- * características de um tipo de animal possível segundo o diagrama abaixo, que deve ser lido da esquerda para a direita.
- *  - Solicite ao usuário três strings
- *  - realize uma comparação
- *  - retorne uma resposta positiva sobre qual animal ele escolheu, caso não exista a opção retornar uma resposta negativa
+ * características de um tipo de animal possível segundo o diagrama abaixo, 
+ * que deve ser lido da esquerda para a direita.
  * 
+ *  - Solicite ao usuário três caracteristicas no tipo [strings]
+ *  - Faça uma comparação utilizando o controle de fluxo if para ler as caracteristicas do animal
+ *  - retorne uma resposta positiva sobre qual animal ele escolheu, 
+ *  - caso a opção não exista retornar uma resposta negativa
  */
 
 public class Exercicio04 {
