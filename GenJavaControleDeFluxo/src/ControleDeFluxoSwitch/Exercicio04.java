@@ -8,12 +8,12 @@ import java.util.Scanner;
  *3) e o valor a ser depositado ou sacado (somente nas opções 2 e 3). Considere que 
  *um saque só pode ser realizado caso haja saldo suficiente. Ao final de cada operação, 
  *exiba o novo Saldo na tela. A variável saldo (float), será inicializada com o valor de R$ 
- *1000.00. Caso a operação seja diferente do intervalo 1 a 3, mostre a mensagem 
+ *1000.00. Caso a operação seja diferente do intervalo 1 a 3, mostre a mensagem Operação Inválida!
  * 
- * - Solicite ao usuário um número [int] e declare três doubles, um contendo uma operação incializada
- * - Realizar a solicitação do usuário utilizando o controle de fluxo switch
- * - Retorne a resposta da operação bancária
- * - Caso não tenha exista a opção, retornar como invalida
+ * Na construção do Algoritmo, utilize os seguintes conteúdos:
+ * 		Entrada e Saída de dados
+ * 		Operadores
+ * 		Laço Condicional Switch
  */
 
 public class Exercicio04 {

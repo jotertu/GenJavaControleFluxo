@@ -5,10 +5,10 @@ import java.util.Scanner;
  * Escreva um algoritmo em Java, que leia um número inteiro via teclado e mostre na tela 
  * uma mensagem indicando se este número é par ou ímpar e se o número é positivo ou negativo.
  * 
- * 1 - ler um número inteiro
- * 2 - Faça uma comparação utilizando o controle de fluxo if se o número é negativo ou positivo
- * 3 - Faça uma comparação utilizando o controle de fluxo if para ver se o numero é impar ou par
- * 4 - Imprimir resultado positivo ou negativo e informar se o valor digitado é impar ou par na tela para o usuário
+ *  Na construção do Algoritmo, utilize os seguintes conteúdos:
+ *		Entrada e Saída de dados
+ *		Operadores
+ *		Laço Condicional IF
  */
 public class Exercicio02 {
 

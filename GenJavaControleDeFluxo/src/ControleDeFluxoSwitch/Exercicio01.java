@@ -2,14 +2,14 @@ package ControleDeFluxoSwitch;
 
 import java.util.Scanner;
 /*
- * Com base na tabela abaixo, escreva um algoritmo em Java que leia o código de um item 
- * (número inteiro de 1 a 6) e a quantidade comprada deste item (número inteiro). 
- * A seguir, mostre na tela o valor total da conta e o nome do produto que foi comprado.
+ * Com base na tabela abaixo, escreva um algoritmo em Java que leia o código de um 
+ * item (número inteiro de 1 a 6) e a quantidade comprada deste item (número inteiro). A  
+ * seguir, mostre na tela o valor total da conta e o nome do produto que foi comprado.
  *	
- *	- Solicite ao usuário o produto e quantidade [inteiros]
- *	- Utilizando o controle de fluxo switch descreva qual foi o produto retornado
- *	- Retorne ao usuário a quantidade de produtos adquidos, e o valor pago.
- *	- Caso não exista o produto retornar uma resposta negativa
+ *	Na construção do Algoritmo, utilize os seguintes conteúdos:
+ *		Entrada e Saída de dados
+ *		Operadores
+ *		Laço Condicional Switch
  */
 
 public class Exercicio01 {

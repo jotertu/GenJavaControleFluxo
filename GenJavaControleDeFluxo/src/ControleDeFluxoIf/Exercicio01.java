@@ -2,13 +2,13 @@ package ControleDeFluxoIf;
 
 import java.util.Scanner;
 /*
- * Faça um algoritmo em Java que leia 3 valores inteiros A, B e C 
- * e imprima na tela se a soma de A + B é maior, menor ou igual a C.
+ * Faça um algoritmo em Java que leia 3 valores inteiros A, B e C e imprima na tela se a 
+ * soma de A + B é maior, menor ou igual a C.
  * 
- *  1 - Solicite ao usuário 3 valores no tipo inteiro
- *  2 - Faça a entrada de dois valores para serem somados
- *  3 - Faça a entrada de um valor para ser comparado
- *  4 - utilizando o controle de fluxo if faça a saida com a comparação  do primeiro e o segundo valor, verificando se é maior, menor ou igual ao terceiro valor
+ *  Na construção do Algoritmo, utilize os seguintes conteúdos:
+ *  	Entrada e Saída de dados
+ *		Operadores
+ *		Laço Condicional IF
  */
 public class Exercicio01 {
 
